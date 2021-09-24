@@ -1,6 +1,7 @@
-# blank_project_repository
+# Fall 2021 DSS Beehive project
 
-A blank project repository for folder structure and naming guidance.  The `confidentiality_agreement.md` can be posted as an issue and each student in the repository must sign it after getting access or their access will be removed.
+To see the overall description and plan for the project, go [here](documents/outline.md).
+To access the brainstorming sheet, click [here](https://docs.google.com/document/d/1hXdvNl0s4_orKNx74sg9fq2Ud8MnVDYLotHsdNUNP4o/edit?usp=sharing).
 
 ## High-level folders
 
