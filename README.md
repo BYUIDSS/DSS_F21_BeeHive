@@ -1,7 +1,7 @@
 # Fall 2021 DSS Beehive project
 
-To see the overall description and plan for the project, go [here](documents/outline.md).
-To access the brainstorming sheet, click [here](https://docs.google.com/document/d/1hXdvNl0s4_orKNx74sg9fq2Ud8MnVDYLotHsdNUNP4o/edit?usp=sharing).
+- Overall description and plan for the project is [here](documents/outline.md).
+- Brainstorming sheet, click [here](https://docs.google.com/document/d/1hXdvNl0s4_orKNx74sg9fq2Ud8MnVDYLotHsdNUNP4o/edit?usp=sharing).
 
 ## High-level folders
 
