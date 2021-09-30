@@ -8,7 +8,7 @@ Beehive Credit Union is to open a new location in Idaho Falls, and needs to deci
 * Week 2 (Sep 29): 
   - Brainstorming
   - Initial data collection
-  - Everyone encouraged to find one data source by Week 6
+  - Everyone encouraged to find one data source by Week 3
   - Get team members onto GitHub and Slack
   - Understand the vision of the project
 * Week 3 (Oct 6): 
