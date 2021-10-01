@@ -1,7 +1,10 @@
 # Fall 2021 DSS Beehive project
 
 - Overall description and plan for the project is [here](documents/outline.md).
+- Put data you find in the raw_data folder.
+- Write links to data you find [here](https://docs.google.com/document/d/1CGgwnOT-tyLN32Z7z0lnzfXkJMox9G5eFR1zAx69tUg/edit?usp=sharing)
 - Brainstorming sheet, click [here](https://docs.google.com/document/d/1hXdvNl0s4_orKNx74sg9fq2Ud8MnVDYLotHsdNUNP4o/edit?usp=sharing).
+- Write your insight about data [here](https://docs.google.com/document/d/1iq3y8bJeHuyDnTtFbis_CH9W6VQ5NkuqZ4Kwhu7XDOs/edit?usp=sharing)
 
 ## High-level folders
 
