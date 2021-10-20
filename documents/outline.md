@@ -16,5 +16,9 @@ Beehive Credit Union is to open a new location in Idaho Falls, and needs to deci
 * Week 4 (Oct 13)
   - Data collection and analysis
   - Discuss confidentiality agreement
-* Week 5 (Oct 20)
+* Week 5 (Oct 20):
+  - Discuss preliminary results to send to BeeHive
+  - Look at safegraph phone data
 * Week 6 (Oct 27)
+  - Look at safegraph phone data more
+* Week 7
