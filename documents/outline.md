@@ -21,4 +21,4 @@ Beehive Credit Union is to open a new location in Idaho Falls, and needs to deci
   - Look at safegraph phone data
 * Week 6 (Oct 27)
   - Look at safegraph phone data more
-* Week 7
+* Week 7 (Nov 3)
