@@ -1,2 +1,1 @@
-# blank_project_repository
-A blank project repository for folder structure and naming guidance
+US cities map: [https://simplemaps.com/data/us-cities](https://simplemaps.com/data/us-cities)
