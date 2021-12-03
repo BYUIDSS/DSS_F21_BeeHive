@@ -3,7 +3,7 @@ pacman::p_load(acs, tidyverse, tidycensus, maps, sf, leaflet)
 library(shiny)
 
 get_leaflet_map <- function(my_city, radius=5, var=1){
-cities <- read_csv("../../raw_data/uscities.csv")
+cities <- read_csv("../raw_data/uscities.csv")
 id_cities <- cities %>% filter(state_id == "ID")
 my_city <- cities %>% filter(city == my_city)
 my_county <- my_city$county_name
@@ -56,17 +56,16 @@ if(var == 1)dat = c_data$percent_new
 if(var == 2)dat = c_data$pop_dens
 if(var == 3)dat = c_data$medincome
 pal <- colorNumeric("Blues",domain=dat)
-#"+proj=longlat +datum=WGS84"
-mymap <- leaflet(st_transform(st_as_sf(c_data),4326)) %>%
+mymap <- leaflet(st_as_sf(c_data,crs=st_crs("+proj=longlat +datum=WGS84"))) %>%
   addPolygons(
     fillColor=~pal(dat),
     weight=0.5,
     fillOpacity=0.6
   ) %>%
-  addTiles() #%>%
+  addTiles()
   # %>% setView(coords[1],coords[2], zoom=18)
-  #fitBounds(~(coords[1]-lat_radius), ~(coords[2]-lng_radius),
-  #          ~(coords[1]+lat_radius), ~(coords[2]+lat_radius))
+  #fitBounds(coords[1]-lat_radius, coords[2]-lng_radius,
+  #          coords[1]+lat_radius, coords[2]+lat_radius)
 return(mymap)
 }
 
